@@ -1,0 +1,35 @@
+body {
+  background-image: url("0_cVG3z_j_Y3op0Hi_2LMbF_Xdp6ouTzOlKFm4xJdr8.jpg");
+  background-color: rgb(23, 155, 196);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-top: 2em;
+  margin-right: 2em;
+  margin-left: 2em;
+}
+p{
+  color: #0015ff;
+  text-align: center;
+  margin: 0; 
+  font-family: "Georgia", serif;
+  font-style: oblique;
+  font-size: 2em;
+}
+.heading {
+  text-align: center;
+  font-weight: bold;
+  color: #0015ff;
+  font-size: 2.5em;
+  text-shadow: 2px 2px red;
+}
+.lightblue {
+  background-color: rgb(173, 216, 230);
+}
+.rose {
+  background-color: rgb(250, 187, 187);
+}
+.span {
+  color: black;
+  text-shadow: none;
+  font-size: 1.5em;
+}
